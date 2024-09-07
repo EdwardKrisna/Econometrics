@@ -1,4 +1,4 @@
-# Pension Program Eligibility Analysis
+# Analysis of the Characteristics of Individuals Eligible for the Pension Program
 ## Overview
 This project analyzes the factors that influence eligibility for a pension program using statistical techniques and data visualization. The analysis explores demographic, financial, and other characteristics to determine which factors are most predictive of eligibility.
 
